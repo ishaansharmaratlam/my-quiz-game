@@ -1,2 +1,2 @@
 # my quiz game
-output link~
+output link~https://ishaansharmaratlam.github.io/my-quiz-game/
